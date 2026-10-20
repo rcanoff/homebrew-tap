@@ -1,6 +1,6 @@
 cask "abridge" do
-  version "0.5.1"
-  sha256 "139cf7baa04eda606534dc55fcd831257bafeb2f4dcc3a07deafcef67478e5d2"
+  version "0.5.2"
+  sha256 "a6bdf29deb47e232b037767d19c786ff19ecbd7c5e6b4e2cc347254df9a872ba"
 
   url "https://github.com/rcanoff/abridge/releases/download/v#{version}/ABridge-#{version}.dmg"
   name "ABridge"
